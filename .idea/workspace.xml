@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c34bd715-024c-4e26-8bdf-dab48054cfcd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Programming_with_python_2122.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/part1_Basics/d_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1_Basics/d_variables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/part1_Basics/f_operators_comparison.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1_Basics/f_operators_comparison.py" afterDir="false" />
     </list>
