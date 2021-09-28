@@ -35,15 +35,15 @@ city_2_unemployment_rate = 7.4
 city_3_name = 'Amsterdam'
 city_3_population = 2431000
 city_3_unemployment_rate = 3.3
-city_3_name = 'Bogota'
-city_3_population = 2431000
-city_3_unemployment_rate = 3.3
+city_4_name = 'Bogota'
+city_4_population = 2431000
+city_4_unemployment_rate = 3.3
 
 # note: Mind the indented structure of if clauses. It matters!!!!
 
 # - if - clauses serve for testing conditions to trigger actions if it is true
-if city_1_population > city_2_population:
-    result = city_1_name + ' is bigger than ' + city_2_name
+if city_4_population > city_2_population:
+    result = city_2_name + ' is bigger than ' + city_4_name
     print(result)
 
 # - if else - clauses serve for testing conditions and trigger an action whether if it is true or not
